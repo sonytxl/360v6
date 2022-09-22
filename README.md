@@ -1,5 +1,20 @@
-ttt
+自用精简固件，出国和穿透
 
+插件包含  出国  ssplus+,passwall,openclash
+ 
+         穿透 frp,nps,ddnsto,zerotier,wireguard
+         
+         其他 TTYD终端，usb打印，网络唤醒
+         
+         主题是小鸟主题
+         
+     每月不定时更新，欢饮使用，
+     
+     192.168.51.1
+     root
+     password
+     
+ 
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
