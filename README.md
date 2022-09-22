@@ -1,12 +1,12 @@
-自用精简固件，出国和穿透
+  自用精简固件，主要是出国和穿透 L大源的原生自动编译（没有任何修改）
 
-插件包含  出国  ssplus+,passwall,openclash
+  插件包含  出国  ssplus+,passwall,openclash
  
-         穿透 frp,nps,ddnsto,zerotier,wireguard
+          穿透 frp,nps,ddnsto,zerotier,wireguard
          
-         其他 TTYD终端，usb打印，网络唤醒
+          其他 TTYD终端，usb打印，网络唤醒
          
-         主题是小鸟主题
+          主题是小鸟主题
          
      每月不定时更新，欢饮使用，
      
